@@ -3,6 +3,9 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/AdguardTeam/dnsproxy)](https://goreportcard.com/report/AdguardTeam/dnsproxy)
 [![GolangCI](https://golangci.com/badges/github.com/AdguardTeam/dnsproxy.svg)](https://golangci.com/r/github.com/AdguardTeam/dnsproxy)
 [![Go Doc](https://godoc.org/github.com/AdguardTeam/dnsproxy?status.svg)](https://godoc.org/github.com/AdguardTeam/dnsproxy)
+# 一键部署 v2ray 到 heroku  
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+- - -
 
 # DNS Proxy
 
