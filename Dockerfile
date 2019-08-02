@@ -8,4 +8,4 @@ FROM scratch
 
 COPY --from=builder /dnsproxy/dnsproxy .
 
-entrypoint ["./dnsproxy -l 127.0.0.1 --https-port=443 --tls-crt=warth.ml.crt --tls-key=warth.ml.key -u 1.1.1.1:53"]
+entrypoint ["./dnsproxy]
